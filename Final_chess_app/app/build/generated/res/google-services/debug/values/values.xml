@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">930243248280-smu6ocaqpq7sndlrh18boq6he77kbhl9.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://chess-app-3c9d8.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">930243248280</string>
+    <string name="google_api_key" translatable="false">AIzaSyAUHQnuHDb4bFjYouM3fpbmdgNcVK7dNCU</string>
+    <string name="google_app_id" translatable="false">1:930243248280:android:a6548da3329d61fc</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAUHQnuHDb4bFjYouM3fpbmdgNcVK7dNCU</string>
+    <string name="google_storage_bucket" translatable="false">chess-app-3c9d8.appspot.com</string>
+    <string name="project_id" translatable="false">chess-app-3c9d8</string>
+</resources>

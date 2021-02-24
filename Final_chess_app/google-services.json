@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "930243248280",
+    "firebase_url": "https://chess-app-3c9d8.firebaseio.com",
+    "project_id": "chess-app-3c9d8",
+    "storage_bucket": "chess-app-3c9d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930243248280:android:a6548da3329d61fc",
+        "android_client_info": {
+          "package_name": "com.example.final_chess_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930243248280-smu6ocaqpq7sndlrh18boq6he77kbhl9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUHQnuHDb4bFjYouM3fpbmdgNcVK7dNCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930243248280-smu6ocaqpq7sndlrh18boq6he77kbhl9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
